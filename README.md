@@ -1,4 +1,4 @@
-#  👋 **Hi, I’m `Hariom`**
+#  👋 **Hi, I’m `Hariom Patidar`**
 
 <h3 align="left">I code with</h3>
 <div align="left">
