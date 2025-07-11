@@ -1,4 +1,4 @@
-#  👋 **Hi, I’m `Hariom Patidar`**
+#  👋 **Hi, I’m Hariom Patidar**
 
 <h2 align="left">My Skills</h2>
 <h3 align="left">Programming Languages</h3>
