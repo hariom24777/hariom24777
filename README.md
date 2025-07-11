@@ -15,7 +15,7 @@
 <h3 align="left">Web Technologies</h3>
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="next.js logo" /><br/>Next.js</td>
+<!--     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="next.js logo" /><br/>Next.js</td> -->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /><br/>React</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node.js logo" /><br/>Node.js</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /><br/>HTML</td>
