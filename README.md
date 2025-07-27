@@ -1,1 +1,1 @@
-#  👋 **Hi, I’m Hariom Patidar**
+#  👋 **Hi, I’m Hariom**
