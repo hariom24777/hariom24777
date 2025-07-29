@@ -1,4 +1,4 @@
-### User Profile
+### userProfile.js
 
 ```js
 const profile = {
