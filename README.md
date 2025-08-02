@@ -3,7 +3,7 @@
 ```js
 const profile = {
   name: 'Hariom Patidar',
-  title: 'Frontend Developer | Cloud Enthusiast | Problem Solver',
+  title: 'Frontend Developer | Problem Solver | Graphic Designer',
   skills: [
     'Python', 'C++', 'MySQL', 'JavaScript',
     'React', 'Tailwind CSS', 'Git', 'GitHub'
