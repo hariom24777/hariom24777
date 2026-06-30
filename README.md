@@ -5,7 +5,7 @@ const profile = {
   name: 'Hariom Patidar',
   title: 'Frontend Developer | Problem Solver | Graphic Designer',
   skills: [
-    'Python', 'C++', 'MySQL', 'JavaScript',
+    'JavaScript', 'TypeScript', 'Python', 'C++', 'MySQL',
     'React', 'Tailwind CSS', 'Git', 'GitHub'
   ],
   hardWorker: true,
